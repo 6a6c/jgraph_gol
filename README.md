@@ -15,5 +15,7 @@ Then, running `examples/glider.sh` or similar will create the output gif for you
 
 Running `make` will not only make the binary to play Game of Life, but will also run all the examples.
 Note that some of these examples take a long time to run, so you'll have to command c out of make if you don't wanna see them.
+The example gifs are also inside the GitHub repository, under the `example_gifs` directory, just in case some problem arises
+
 
 If you have any questions about this, please email me at either jlooney6@vols.utk.edu or jlooney314@gmail.com
